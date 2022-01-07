@@ -7,7 +7,7 @@
 <a name="overview"></a>
 ## Overview
 
-[Link](https://jmoceri34.github.io/orion/)
+[Link](https://joemoceri.github.io/orion/)
 
 Main Screen. Orion is a project management demo that features a Dashboard, Pending Work Requests, Applications, and Projects. 
 
